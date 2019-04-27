@@ -1,4 +1,39 @@
 {
+    "2019MNRAS.tmp..997H": {
+        "author": [
+            "Henney, William J.",
+            "Arthur, S. J."
+        ],
+        "title": [
+            "Bow shocks, bow waves, and dust waves. I. Strong coupling limit"
+        ],
+        "ref": "Monthly Notices of the Royal Astronomical Society None, 997 (2019)"
+    },
+    "2018MNRAS.479.3909G": {
+        "author": [
+            "Garc\u00eda-D\u00edaz, Ma T.",
+            "Steffen, W.",
+            "Henney, W. J.",
+            "L\u00f3pez, J. A.",
+            "Garc\u00eda-L\u00f3pez, F.",
+            "Gonz\u00e1lez-Buitrago, D.",
+            "\u00c1viles, A."
+        ],
+        "title": [
+            "The Owl and other strigiform nebulae: multipolar cavities within a filled shell"
+        ],
+        "ref": "Monthly Notices of the Royal Astronomical Society 479, 3909 (2018)"
+    },
+    "2018MNRAS.477.2431T": {
+        "author": [
+            "Tarango-Yong, Jorge A.",
+            "Henney, William J."
+        ],
+        "title": [
+            "True versus apparent shapes of bow shocks"
+        ],
+        "ref": "Monthly Notices of the Royal Astronomical Society 477, 2431 (2018)"
+    },
     "2016RMxAA..52..261F": {
         "author": [
             "Ferland, G. J.",
@@ -501,6 +536,18 @@
         ],
         "ref": "Revista Mexicana de Astronomia y Astrofisica 37, 221 (2001)"
     },
+    "2001PASP..113..770F": {
+        "author": [
+            "Franco, Jos\u00e9",
+            "Henney, William",
+            "Martos, Marco",
+            "Pe\u00f1a, Miriam"
+        ],
+        "title": [
+            "Ionized Gaseous Nebulae"
+        ],
+        "ref": "Publications of the Astronomical Society of the Pacific 113, 770 (2001)"
+    },
     "2001ApJ...561..830G": {
         "author": [
             "Garc\u00eda-Arredondo, F.",
@@ -575,6 +622,15 @@
             "Modeling the Brightness Profiles of the Orion Proplyds"
         ],
         "ref": "The Astronomical Journal 116, 322 (1998)"
+    },
+    "1997SSRv...82..467H": {
+        "author": [
+            "Henney, William"
+        ],
+        "title": [
+            "J. Mayo Greenberg, The Cosmic Dust Connection."
+        ],
+        "ref": "Space Science Reviews 82, 467 (1997)"
     },
     "1997A&A...324..656H": {
         "author": [
@@ -668,6 +724,15 @@
             "Polarization Profiles of Scattered Emission Lines. I. General Formalism for Optically Thin Rayleigh Scattering"
         ],
         "ref": "The Astrophysical Journal 427, 288 (1994)"
+    },
+    "1992PhDT.......259H": {
+        "author": [
+            "Henney, Willam John"
+        ],
+        "title": [
+            "Scattered emission lines from Herbig-Haro jets"
+        ],
+        "ref": "Ph.D. Thesis (1992)"
     },
     "1992A&A...261..301H": {
         "author": [
